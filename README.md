@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    An indie <b>Highschooler</b> in <b>Sci-Math</b> class <br>
+    An indie <b>Undergraduate Student</b> in <b>MUICT</b> Student <br>
     <b>self study programming,</b>
     loved to develop something useful / fun,
     <br>I devoted my life and time to the joy of learning</br>
@@ -35,12 +35,16 @@
 #### Education  
 <table>
   <tr>
-    <td>High school</td>
-    <td>NMRSW2 <b>(Specialized English Program)</b></td>
+    <td>Junior High school</td>
+    <td>NMRSW2 <b>( Mini English Program(MEP) )</b></td>
   </tr>
   <tr>
     <td>Senior high school</td>
-    <td>NMRSW2 <b>(Sci-Math)</b></td>
+    <td>NMRSW2 <b>( Intensive English Program(IEP) )</b></td>
+  </tr>
+  <tr>
+    <td>Bachelor Degrees (Currently studying)</td>
+    <td>Mahidol University <b>( Faculty of Information & Communication Technology(ICT) )</b></td>
   </tr>
 <table>  
 
