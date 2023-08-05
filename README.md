@@ -7,16 +7,16 @@
 
 <p align="center">
   <em>
-    An indie <b>Undergraduate Student</b> in <b>MUICT</b> Student <br>
-    <b>self study programming,</b>
-    loved to develop something useful / fun,
+    An indie <b>Undergraduate Student</b> in <b>MUICT</b> Student. <br>
+    <b>Self study programming, Cyber Security, Pentest tools.</b>
+    Loved to develop something useful / fun,
     <br>I devoted my life and time to the joy of learning</br>
-    <br><b>Hate School, Love Study!</b></br>
+    <br><b>Hate School, Love Self-Study!</b></br>
   </em>
 </p>
 
-- 🔭 currently working on Main Project & side project
-- 🖥️ Learning DS, WEBDEV
+- 🔭 currently working on CTF competition & side project
+- 🖥️ Learning Network & Security, Cyber Security, Penetration testing, WEBDEV
 
 
 
@@ -28,6 +28,7 @@
   <img align="center" src="contents/languages/html.png" width="50px" />&nbsp;
   <img align="center" src="contents/languages/css.png" width="50px" />&nbsp;
   <img align="center" src="contents/languages/js.png" width="50px" />&nbsp;
+  <img align-"center" src="contents/languages/c-programming" width="50px" />&nbsp;
 </p>
 
 <hr>
