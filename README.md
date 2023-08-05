@@ -28,7 +28,7 @@
   <img align="center" src="contents/languages/html.png" width="50px" />&nbsp;
   <img align="center" src="contents/languages/css.png" width="50px" />&nbsp;
   <img align="center" src="contents/languages/js.png" width="50px" />&nbsp;
-  <img align="center" src="contents/languages/c-programming.png" width="50px" />&nbsp;
+  <img align="center" src="contents/languages/c-programming.png" width="30px" />&nbsp;
 </p>
 
 <hr>
