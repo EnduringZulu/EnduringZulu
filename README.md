@@ -1,4 +1,4 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/EnduringZulu.png" width="25%" align="right" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/EnduringZulu.png" width="30%" align="right" alt="TryHackMe">
 <br><br>
 
 <h1 align="center">
