@@ -1,6 +1,9 @@
+<img src="https://tryhackme-badges.s3.amazonaws.com/EnduringZulu.png" width="25%" align="right" alt="TryHackMe">
+<br><br>
+
 <h1 align="center">
 
-  <a href="url"><img src="https://avatars.githubusercontent.com/u/93990960?v=4" height="auto" width="200" style="border-radius:50%"></a>
+  <a href="url"><img src="https://avatars.githubusercontent.com/u/93990960?v=4" height="auto" width="250" alt="Avatar" border-radius="50%"></a>
 
   <b><i>Hello, I'm EnduringZulu</i></b>
 </h1>
