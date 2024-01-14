@@ -1,4 +1,3 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/nattachai.min.png" width="30%" align="right" alt="TryHackMe">
 <br><br>
 
 <h1 align="center">
