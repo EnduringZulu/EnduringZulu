@@ -36,14 +36,14 @@
 
 <hr>
 
-#### Education  
+## Education  
 <table>
   <tr>
     <td>Junior High school</td>
     <td>NMRSW2 <b>( Mini English Program(MEP) )</b></td>
   </tr>
   <tr>
-    <td>Senior high school</td>
+    <td>Senior High School</td>
     <td>NMRSW2 <b>( Intensive English Program(IEP) )</b></td>
   </tr>
   <tr>
@@ -52,11 +52,12 @@
   </tr>
 <table>  
 
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://github.com/EnduringZulu)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://github.com/EnduringZulu)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://github.com/EnduringZulu)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=microsoft&logoColor=white">](https://github.com/EnduringZulu) 
 
+## 🕵️‍♂️💻Cybersecurity Stats
+<b>Tryhackme</b><br>
+[<img src="https://tryhackme-badges.s3.amazonaws.com/nattachai.min.png" alt="TryHackMe">](https://tryhackme.com/p/nattachai.min)<b style="color : green"> (in the top 3%)</b>
+<br><b>Hackthebox</b><br>
+https://app.hackthebox.com/profile/1439432
 
 ## 📈 GitHub Stats
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=EnduringZulu&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
