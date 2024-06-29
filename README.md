@@ -36,7 +36,7 @@
 
 <hr>
 
-## Education  
+## 📚Education  
 <table>
   <tr>
     <td>Junior High school</td>
@@ -53,7 +53,7 @@
 <table>  
 
 
-## 🕵️‍♂️💻Cybersecurity Stats
+## 🕵️‍♂️Cybersecurity Stats
 <b>Tryhackme</b><br>
 [<img src="https://tryhackme-badges.s3.amazonaws.com/nattachai.min.png" alt="TryHackMe">](https://tryhackme.com/p/nattachai.min)<b style="color : green"> (in the top 3%)</b>
 <br><b>Hackthebox</b><br>
